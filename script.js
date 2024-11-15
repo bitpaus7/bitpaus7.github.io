@@ -1,51 +1,44 @@
-// Daftar folder artikel
-const artikelFolders = [
-    'artikel1',
-    'artikel2',
-    'artikel3',
-    'artikel4',
-    'artikel5',
-    'artikel6',
-    'artikel7'
+const slidesContainer = document.querySelector(".slides");
+
+// Data artikel
+let articles = [
+  { title: "Artikel 1", content: "Konten artikel 1" },
+  { title: "Artikel 2", content: "Konten artikel 2" },
+  { title: "Artikel 3", content: "Konten artikel 3" },
+  { title: "Artikel 4", content: "Konten artikel 4" },
+  { title: "Artikel 5", content: "Konten artikel 5" },
 ];
 
-const sliderContainer = document.querySelector('.slider');
-let currentSlide = 0;
-
-// Fungsi untuk memuat artikel dari folder
-async function loadArticles() {
-    for (const folder of artikelFolders) {
-        try {
-            const response = await fetch(`${folder}/index.html`);
-            if (!response.ok) {
-                console.error(`Gagal memuat artikel dari ${folder}`);
-                continue;
-            }
-            const htmlContent = await response.text();
-            const slideElement = document.createElement('div');
-            slideElement.classList.add('slide');
-            slideElement.innerHTML = htmlContent;
-            sliderContainer.appendChild(slideElement);
-        } catch (error) {
-            console.error(`Error memuat artikel dari ${folder}:`, error);
-        }
-    }
-    initSlider();
+// Render artikel sebagai slide
+function renderSlides() {
+  slidesContainer.innerHTML = "";
+  articles.forEach((article) => {
+    const slide = document.createElement("div");
+    slide.classList.add("slide");
+    slide.innerHTML = `
+      <h2>${article.title}</h2>
+      <p>${article.content}</p>
+    `;
+    slidesContainer.appendChild(slide);
+  });
 }
 
-// Fungsi untuk menginisialisasi slider
-function initSlider() {
-    const slides = document.querySelectorAll('.slide');
-    if (slides.length > 0) {
-        slides[currentSlide].classList.add('active');
-
-        setInterval(() => {
-            slides[currentSlide].classList.remove('active');
-            currentSlide = (currentSlide + 1) % slides.length;
-            slides[currentSlide].classList.add('active');
-        }, 5000);
-    }
+// Fungsi untuk memutar slide
+let currentIndex = 0;
+function rotateSlides() {
+  currentIndex = (currentIndex + 1) % articles.length;
+  slidesContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
 }
 
-// Mulai memuat artikel
-loadArticles();
+// Menambahkan artikel baru
+function addArticle(title, content) {
+  articles.unshift({ title, content });
+  if (articles.length > 5) {
+    articles.pop();
+  }
+  renderSlides();
+}
+
+// Inisialisasi
+renderSlides();
+setInterval(rotateSlides, 5000);
