@@ -29,13 +29,38 @@ header {
 .logo-container img {
     margin-right: 1rem;
 }
-.menu {
+/* Menu Horizontal */
+.menus {
     display: flex;
+    justify-content: space-between;
     gap: 1rem;
+    flex-wrap: wrap;
 }
-.menu li a {
-    color: white;
-    font-weight: bold;
+.menu-group {
+    width: 22%; /* Ukuran menu agar sejajar */
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    text-align: left;
+}
+.menu-group h3 {
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    color: #0078d7;
+}
+.menu-group ul {
+    list-style: none;
+}
+.menu-group ul li {
+    margin-bottom: 0.5rem;
+}
+.menu-group ul li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 0.9rem;
+}
+.menu-group ul li a:hover {
+    color: #0078d7;
 }
 
 /* Slider Section */
