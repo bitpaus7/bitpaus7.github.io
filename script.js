@@ -1,16 +1,34 @@
-// Data Artikel
-const articles = [
-  { title: "Artikel 1", content: "Ini adalah isi dari artikel 1." },
-  { title: "Artikel 2", content: "Ini adalah isi dari artikel 2." },
-  { title: "Artikel 3", content: "Ini adalah isi dari artikel 3." },
-  { title: "Artikel 4", content: "Ini adalah isi dari artikel 4." },
-  { title: "Artikel 5", content: "Ini adalah isi dari artikel 5." },
-];
+const username = "bitpaus7"; // Ganti dengan username GitHub Anda
+const repo = "bitpaus7.github.io"; // Ganti dengan nama repository Anda
+const branch = "main"; // Ganti dengan branch utama Anda (default biasanya "main")
 
 const slidesContainer = document.querySelector(".slides");
 
-// Render Artikel
-function renderSlides() {
+// Fetch data dari GitHub API
+async function fetchArticles() {
+  try {
+    const response = await fetch(
+      `https://api.github.com/repos/${username}/${repo}/contents?ref=${branch}`
+    );
+    if (!response.ok) throw new Error("Gagal mengambil data dari GitHub API");
+
+    const data = await response.json();
+    const folders = data.filter((item) => item.type === "dir");
+
+    const articles = folders.map((folder) => ({
+      title: folder.name.replace(/-/g, " "), // Mengganti "-" menjadi spasi
+      content: `Baca artikel ${folder.name} di sini!`, // Contoh konten sementara
+    }));
+
+    renderSlides(articles);
+  } catch (error) {
+    console.error(error.message);
+    slidesContainer.innerHTML = `<p>Gagal memuat artikel.</p>`;
+  }
+}
+
+// Render slide
+function renderSlides(articles) {
   slidesContainer.innerHTML = articles
     .map(
       (article) => `
@@ -23,13 +41,14 @@ function renderSlides() {
     .join("");
 }
 
-// Slider Logika
+// Rotasi otomatis
 let currentIndex = 0;
-function rotateSlides() {
-  currentIndex = (currentIndex + 1) % articles.length;
-  slidesContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+function rotateSlides(articles) {
+  setInterval(() => {
+    currentIndex = (currentIndex + 1) % articles.length;
+    slidesContainer.style.transform = `translateX(-${currentIndex * 100}%)`;
+  }, 5000);
 }
 
 // Inisialisasi
-renderSlides();
-setInterval(rotateSlides, 5000);
+fetchArticles();
