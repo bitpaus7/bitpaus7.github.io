@@ -1,19 +1,51 @@
+// Daftar folder artikel
+const artikelFolders = [
+    'artikel1',
+    'artikel2',
+    'artikel3',
+    'artikel4',
+    'artikel5',
+    'artikel6',
+    'artikel7'
+];
+
+const sliderContainer = document.querySelector('.slider');
 let currentSlide = 0;
-const slides = document.querySelectorAll('.slide');
 
-function showSlide(index) {
-    slides.forEach((slide, i) => {
-        slide.classList.toggle('active', i === index);
-    });
+// Fungsi untuk memuat artikel dari folder
+async function loadArticles() {
+    for (const folder of artikelFolders) {
+        try {
+            const response = await fetch(`${folder}/index.html`);
+            if (!response.ok) {
+                console.error(`Gagal memuat artikel dari ${folder}`);
+                continue;
+            }
+            const htmlContent = await response.text();
+            const slideElement = document.createElement('div');
+            slideElement.classList.add('slide');
+            slideElement.innerHTML = htmlContent;
+            sliderContainer.appendChild(slideElement);
+        } catch (error) {
+            console.error(`Error memuat artikel dari ${folder}:`, error);
+        }
+    }
+    initSlider();
 }
 
-function nextSlide() {
-    currentSlide = (currentSlide + 1) % slides.length;
-    showSlide(currentSlide);
+// Fungsi untuk menginisialisasi slider
+function initSlider() {
+    const slides = document.querySelectorAll('.slide');
+    if (slides.length > 0) {
+        slides[currentSlide].classList.add('active');
+
+        setInterval(() => {
+            slides[currentSlide].classList.remove('active');
+            currentSlide = (currentSlide + 1) % slides.length;
+            slides[currentSlide].classList.add('active');
+        }, 5000);
+    }
 }
 
-// Set interval for sliding every 5 seconds
-setInterval(nextSlide, 5000);
-
-// Show the first slide on load
-showSlide(currentSlide);
+// Mulai memuat artikel
+loadArticles();
