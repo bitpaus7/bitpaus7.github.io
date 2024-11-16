@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Teknologi Blockchain"
-date: 2024-11-18
+date: 2024-11-16
 categories: [Crypto, Teknologi]
 tags: [blockchain, teknologi]
 ---
