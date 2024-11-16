@@ -3,3 +3,4 @@ description: "Blog sederhana tentang dunia kripto"
 theme: minima # Tema default
 baseurl: "" # kosongkan untuk repositori user/organization Pages
 url: "https://bitpaus.com" # domain Anda
+permalink: /:title/
