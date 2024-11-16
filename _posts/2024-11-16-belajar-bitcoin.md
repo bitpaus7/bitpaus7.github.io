@@ -9,7 +9,7 @@ tags: [bitcoin, belajar]
 ### Apa Itu Bitcoin?
 
 
-<img src="assets/images/belajar-bitcoin.jpg" alt="Panduan Belajar Bitcoin">
+![Panduan Belajar Bitcoin](assets/images/tron.jpg)
 
 
 Bitcoin adalah mata uang digital pertama yang menggunakan teknologi blockchain. Bitcoin diciptakan oleh seseorang atau kelompok yang menggunakan nama samaran **Satoshi Nakamoto** pada tahun 2009.
