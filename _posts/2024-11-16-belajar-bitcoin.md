@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Belajar Bitcoin"
-date: 2024-11-17
+date: 2024-11-16
 categories: [Crypto, Tutorial]
 tags: [bitcoin, belajar]
 ---
