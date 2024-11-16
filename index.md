@@ -3,6 +3,12 @@ layout: default
 title: Home
 ---
 
-# Selamat Datang di BitPaus
+# Selamat Datang di Blog BitPaus
 
-Ini adalah blog sederhana yang menggunakan Jekyll dan GitHub Pages. Kami menyediakan artikel terbaru tentang dunia kripto.
+<ul>
+  {% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a> - <small>{{ post.date | date: "%d %B %Y" }}</small>
+  </li>
+  {% endfor %}
+</ul>
