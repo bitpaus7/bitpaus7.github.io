@@ -8,6 +8,9 @@ tags: [bitcoin, blockchain]
 
 TESTING
 
+![Panduan Belajar Bitcoin](assets/images/belajar-bitcoin.jpg)
+
+
 Bitcoin adalah mata uang digital pertama yang menggunakan teknologi blockchain. Bitcoin diciptakan oleh seseorang atau kelompok yang menggunakan nama samaran **Satoshi Nakamoto** pada tahun 2009.
 
 #### Keuntungan Bitcoin
