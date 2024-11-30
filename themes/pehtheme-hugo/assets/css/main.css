@@ -2347,7 +2347,7 @@ ul li a:hover {
 
   #social-media {
     flex-direction: row; /* Tetap horizontal */
-    gap: 8px; /* Atur jarak antar ikon agar lebih rapat di layar kecil */
+    gap: 4px; /* Atur jarak antar ikon agar lebih rapat di layar kecil */
   }
 
   #social-media a {
