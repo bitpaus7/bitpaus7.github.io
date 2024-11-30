@@ -1,0 +1,60 @@
+baseURL = 'https://bitpaus.com/'
+languageCode = 'en-us'
+title = 'BITPAUS'
+theme = 'pehtheme-hugo'
+
+[params]
+  siteName = "myweb"
+  description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
+  mainSections = 'posts'
+
+  [params.author]
+    name = "X"
+    bio = "Penulis artikel blog tentang teknologi dan investasi crypto."
+
+
+[pagination]
+  pagerSize = 6 # Set the desired number of posts per page
+  summaryLength = '20' # <- 20 words are approximately 160 characters
+  googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
+  disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
+
+[author]
+  name = 'Anthony Arphan'
+  bio = 'Debitis assumenda esse dignissimos aperiam delectus maxime tenetur repudiandae dolore'
+  avatar = '/images/nasa-astronaut-unsplash.jpg'
+  twitter = 'https://twitter.com/insertapps'
+
+[menu] # Menu management
+  [[menu.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menu.main]]
+    name = 'Opini'
+    pageRef = '/tags/opini'
+    weight = 15
+  [[menu.main]]
+    name = 'Airdrop'
+    pageRef = '/tags/airdrop'
+    weight = 20
+  [[menu.main]]
+    name = 'Berita'
+    pageRef = '/tags/berita'
+    weight = 20
+  [[menu.main]]
+    name = 'Tutorial'
+    pageRef = '/tags/tutorial'
+    weight = 20
+  
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+  [[module.mounts]] # Directing the static folder to assets.
+    source = 'assets'
+    target = 'static'
+
+[permalinks]
+posts = "/:slug/"
+halaman = "/:slug/"

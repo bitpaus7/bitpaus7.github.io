@@ -1,0 +1,72 @@
+<div class="max-w-7xl mx-auto px-4 md:px-6 lg:px-8">
+  <div class="flex flex-wrap space-y-6 mb-4">
+    <!-- Kolom Kiri -->
+    <div class="w-full md:w-3/5 flex flex-col space-y-4 md:pr-8 lg:pr-10">
+      <a class="flex items-center group" href="{{ .Site.BaseURL }}">
+        <img
+          src="{{ .Site.BaseURL }}/bitpaus-logo.png"
+          alt="Logo"
+          class="mr-4"
+        />
+        <span class="text-2xl font-semibold uppercase">{{ .Site.Title }}</span>
+      </a>
+      <p>
+        Bitpaus ada sebuah media informasi seputar industri kripto, Dengan visi
+        <br />untuk meningkatkan literasi digital dan finansial seluruh
+        masyarakat.
+      </p>
+      <!-- Ikon Media Sosial -->
+      <div id="social-media" class="flex items-center space-x-4">
+        <!-- Tambahkan ikon media sosial di sini -->
+        {{ partial "content/social-media.html" . }}
+      </div>
+    </div>
+
+    <!-- Kolom Kanan: 3 Menu -->
+    <div class="w-full md:w-2/5 flex flex-col space-y-6">
+      <div class="flex justify-between">
+        <!-- Menu 1 -->
+        <div class="flex flex-col space-y-2">
+          <h4 class="font-semibold text-lg">Alat</h4>
+          <ul class="space-y-1">
+            <li><a href="#link1" class="hover:underline">BIP39</a></li>
+            <li>
+              <a href="#link2" class="hover:underline">Simulasi Blockchain</a>
+            </li>
+            <li>
+              <a href="#link3" class="hover:underline">Wallet Scanner</a>
+            </li>
+          </ul>
+        </div>
+        <!-- Menu 2 -->
+        <div class="flex flex-col space-y-2">
+          <h4 class="font-semibold text-lg">By Volume</h4>
+          <ul class="space-y-1">
+            <li><a href="#link4" class="hover:underline">CEX</a></li>
+            <li><a href="#link5" class="hover:underline">DEX</a></li>
+            <li><a href="#link6" class="hover:underline">NFT</a></li>
+            <li><a href="#link8" class="hover:underline">Derivatif</a></li>
+            <li><a href="#link7" class="hover:underline">Block Compare</a></li>
+          </ul>
+        </div>
+        <!-- Menu 3 -->
+        <div class="flex flex-col space-y-2">
+          <h4 class="font-semibold text-lg">Lainnya</h4>
+          <ul class="space-y-1">
+            <li><a href="#link9" class="hover:underline">Colaborasi</a></li>
+            <li><a href="#link10" class="hover:underline">Iklan</a></li>
+            <li><a href="#link11" class="hover:underline">Kontak</a></li>
+            <li><a href="#link11" class="hover:underline">Tentang</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="border-t pt-4">
+    <p class="text-sm">
+      Copyright © {{ now.Year }}. All rights reserved
+      <a href="https://Bitpaus.com/" rel="noopener">Bitpaus.com</a>
+    </p>
+  </div>
+</div>

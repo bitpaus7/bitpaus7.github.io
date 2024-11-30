@@ -1,0 +1,6 @@
+<figure class="centered">
+  <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" style="max-width: '{{ .Get
+  "width" | default "100%" }}'; height: auto;"> {{ if .Get "caption" }}
+  <figcaption>{{ .Get "caption" }}</figcaption>
+  {{ end }}
+</figure>

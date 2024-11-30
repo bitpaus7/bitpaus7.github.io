@@ -1,0 +1,30 @@
+<link rel="stylesheet" href="/css/style.css" />
+<div class="container">
+  <p>
+  <span style="color: red; font-weight: bold;">NOTE:</span> bitpaus.com tidak menyimpan atau merekam data apapun di halaman ini. Pembuatan Dompet menggunakan Ether.js. Jangan bagikan seed kepada siapapun!!
+</p>
+  <label for="walletCount">Jumlah Dompet yang ingin dibuat:</label>
+  <input type="number" id="walletCount" min="1" max="100" value="1" />
+  <span id="error" style="color: red; display: none"
+    >Maks 100 mas bro, nanti kelamaan</span
+  >
+
+  <button id="generateWalletButton">Buat sekarang</button>
+
+  <!-- Tombol Copy All -->
+  <button id="copyAllButton" class="copy-btn" style="display: none">
+    Salin semua
+  </button>
+  <div
+    id="progressText"
+    style="margin-top: 10px; font-size: 18px; color: #555"
+  ></div>
+
+  <!-- Animasi Loading -->
+  <div id="loading" class="loading"></div>
+
+  <!-- Area untuk menampilkan wallet -->
+  <div id="walletsContainer"></div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/ethers@5.6.9/dist/ethers.umd.min.js"></script>
+<script src="/js/wallet.js"></script>

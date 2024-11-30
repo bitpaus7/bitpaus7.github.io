@@ -1,0 +1,92 @@
+.container {
+  position: relative; /* Agar bisa diatur posisinya */
+  z-index: 10; /* Pastikan di atas elemen lainnya */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: -400px; /* Menurunkan kontainer untuk menimpa elemen di atas */
+  text-align: center;
+}
+label {
+  font-size: 22px;
+  display: block;
+  font-weight: 700;
+}
+
+button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+p {
+  font-size: 18px;
+  color: #555;
+}
+
+strong {
+  color: #333;
+}
+
+.wallet {
+  margin-bottom: 10px;
+  padding: 13px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  text-align: left; /* Membuat teks rata kiri untuk seed phrase dan address */
+  word-break: break-word; /* Menghindari teks panjang keluar dari kontainer */
+  border: 1px solid;
+}
+
+/* Style untuk animasi loading */
+.loading {
+  display: none;
+  border: 4px solid transparent;
+  border-top: 4px solid #3498db;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  animation: spin 1s linear infinite;
+  margin: 20px auto;
+}
+
+/* Animasi putaran untuk loading */
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Style untuk tombol copy */
+.copy-btn {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.copy-btn:hover {
+  background-color: #2980b9;
+}
+
+@media (max-width: 768px) {
+  .container {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    margin-top: -250px;
+  }
+}
