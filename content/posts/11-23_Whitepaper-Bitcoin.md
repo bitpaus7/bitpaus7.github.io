@@ -8,10 +8,7 @@ categories:
   - whitepaper
   - coin
 tags:
-  - bitcoin
-  - whitepaper
-  - coin
-  - data
+  - tutorial
   
 draft: false
 ---
