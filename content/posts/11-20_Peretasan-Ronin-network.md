@@ -3,15 +3,9 @@ title: "Kronologi RONIN NETWORK: peretasan terbesar di industri kripto"
 date: 2024-11-20T15:00:00+07:00
 slug: /kronologi-peretasan-ronin-network/
 image: images/ronin-network.jpeg
-categories:
-  - kripto
 tags:
   - blockchain
-  - keamanan
-  - ronin network
   - feature
-  - opini
-  - airdrop
   - berita
 draft: false
 ---
