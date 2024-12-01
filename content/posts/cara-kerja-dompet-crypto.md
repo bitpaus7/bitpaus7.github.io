@@ -3,6 +3,9 @@ title: "Cara kerja dompet crypto Dengan Seed Phrase"
 date: 2024-12-01
 slug: /cara-kerja-dompet-crypto/
 image: images/BIP39.jpg
+tags:
+  - opini
+  - tutorial
 
 draft: false
 ---
