@@ -723,6 +723,10 @@ video {
   margin-top: 1.6em;
   margin-bottom: 1.6em;
   padding-left: 1em;
+  max-width: 100%; /* Membatasi lebar blockquote */
+  word-break: break-word; /* Memecah kata panjang */
+  overflow-wrap: break-word; /* Memastikan teks tetap terbungkus */
+  box-sizing: border-box; /* Mempertahankan padding di dalam lebar elemen */
 }
 
 .prose
