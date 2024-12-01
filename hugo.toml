@@ -30,22 +30,22 @@ theme = 'pehtheme-hugo'
     name = 'Home'
     pageRef = '/'
     weight = 10
-  [[menu.main]]
-    name = 'Opini'
-    pageRef = '/tags/opini'
+[[menu.main]]
+    name = 'Berita'
+    pageRef = '/tags/berita'
     weight = 15
   [[menu.main]]
     name = 'Airdrop'
     pageRef = '/tags/airdrop'
     weight = 20
   [[menu.main]]
-    name = 'Berita'
-    pageRef = '/tags/berita'
-    weight = 20
-  [[menu.main]]
     name = 'Tutorial'
     pageRef = '/tags/tutorial'
-    weight = 20
+    weight = 25
+   [[menu.main]]
+    name = 'Opini'
+    pageRef = '/tags/opini'
+    weight = 30
   
 [module]
   [module.hugoVersion]
