@@ -58,3 +58,4 @@ theme = 'pehtheme-hugo'
 [permalinks]
 posts = "/:slug/"
 halaman = "/:slug/"
+tags = "/:slug/"
