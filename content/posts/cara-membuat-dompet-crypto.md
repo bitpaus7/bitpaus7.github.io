@@ -19,7 +19,7 @@ Oke kembali ke topik, Cara membuat dompet kripto dengan aplikasi.
 
 di playstore ada banyak dompet kripto yang bertebaran, Namun saya lebih suka pakai Bitget wallet.
 
-Unduh dompet kripto mu, mau itu trust wallet, safepal atau bitget terserah semua nya juga sama untuk menyimpan, mengirim bermain kripto
+Unduh dompet kripto mu, mau itu trust wallet, safepal atau bitget terserah, semua nya juga sama untuk menyimpan, mengirim dan bermain kripto.
 
 Setelah masuk ke Wallet ada beberapa Pilihan
 
