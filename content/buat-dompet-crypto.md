@@ -1,7 +1,7 @@
 ---
-title: "Buat Dompet Kripto sendiri"
-date: 2024-12-01
-slug: /kripto/
+title: "Buat Dompet Crypto"
+date: 2024-11-29
+slug: /buat-dompet-kripto/
 
 draft: false
 ---
