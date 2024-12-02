@@ -47,4 +47,5 @@ Harap dicatat bahwa tidak ada jaminan bahwa mereka akan meluncurkan airdrop atau
 Story protocol: https://x.com/storyprotocol
 Discord: https://discord.gg/storyprotocol
 website: http://story.foundation/
-dokumentasi: https://docs.story.foundation/docs/get-started-with-the-smart-contracts
+dokumentasi: 
+https://docs.story.foundation/docs/get-started-with-the-smart-contracts
