@@ -13,7 +13,7 @@ Namun karena teknologi semakin Canggih, kini ada BIP39 yang sudah dipakai di ber
 
 Seed phrase adalah kumpulan kata acak sebanyak 12 atau 24 kata yang nanti akan kamu dapatkan saat membuat dompet crypto.
 
-Kata itu adalah jembatan atau password untuk masuk dompet crypto mu, jangan bagikan kepada siapapun, Hanya tuhan dan kamulah yang wajib mengetahui nya. anjayy..
+Kata itu adalah jembatan atau password untuk masuk ke dompet crypto mu, jangan bagikan kepada siapapun, Hanya tuhan dan kamulah yang wajib mengetahui nya. anjayy..
 
 Oke kembali ke topik, Cara membuat dompet kripto dengan aplikasi.
 
@@ -32,10 +32,12 @@ Menggunakan Dompet untuk memantau: ini hanya untuk memantau aset orang lain.
 
 Cara gunakan nya hanya memmasukan public address:
 sebagai conto kamu bisa coba masukan alamat Justin Tron Founder tron
-ini alamat crypto nya: 0x3DdfA8eC3052539b6C9549F12cEA2C295cfF5296
+ini alamat crypto nya: 
+> 0x3DdfA8eC3052539b6C9549F12cEA2C295cfF5296
 
 atau bisa coba Beacon Deposit Contract pemegang coin ethereum terbanyak.
-ini alamat nya: 0x00000000219ab540356cBB839Cbe05303d7705Fa
+ini alamat nya: 
+> 0x00000000219ab540356cBB839Cbe05303d7705Fa
 
 inti nya fitur memantau hanya bisa melihat tanpa memiliki akses ke saldo yang ada di dompet itu.
 
