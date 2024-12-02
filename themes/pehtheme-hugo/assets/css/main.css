@@ -1063,7 +1063,7 @@ video {
 
 .mr-4 {
   width: 70px; /* Sesuaikan dengan lebar yang diinginkan */
-  height: auto; /* Menjaga proporsi gambar */
+  height: 70px; /* Menjaga proporsi gambar */
 }
 
 .prose
