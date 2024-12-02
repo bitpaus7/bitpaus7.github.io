@@ -44,8 +44,8 @@ Panduan Langkah demi Langkah:
 
 Harap dicatat bahwa tidak ada jaminan bahwa mereka akan meluncurkan airdrop atau token mereka sendiri. semua hanya spekulasi.
 
-Story protocol: https://x.com/storyprotocol
-Discord: https://discord.gg/storyprotocol
+Story protocol: https://x.com/storyprotocol 
+Discord: https://discord.gg/storyprotocol 
 website: http://story.foundation/
 dokumentasi: 
 https://docs.story.foundation/docs/get-started-with-the-smart-contracts
