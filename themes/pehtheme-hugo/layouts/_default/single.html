@@ -44,6 +44,7 @@
         class="rounded-lg"
         src="{{ .Params.image }}"
         alt="{{ .Params.title }}"
+        loading="lazy"
       />
       {{- else }} {{- with $image := resources.Get .Params.image }} {{- $image
       := $image.Resize "750x" }}
@@ -53,6 +54,7 @@
         alt="{{ .Params.title }}"
         width="{{ $image.Width }}"
         height="{{ $image.Height }}"
+        loading="lazy"
       />
       {{- end }} {{- end }} {{- end }} {{- if ( isset .Params "caption" ) }}
       <figcaption class="text-center italic text-xs">
