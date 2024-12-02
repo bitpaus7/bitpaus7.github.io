@@ -2,7 +2,7 @@
 title: "Whitepaper Bitcoin Versi Bahasa Indonesia PDF [RANGKUMAN 2024]"
 date: 2024-11-23
 slug: bitcoin-whitepaper-versi-bahaasa-indonesia-pdf
-image: images/bitcoin-whitepaper.jpg
+image: images/bitcoin-whitepaper.webp
 categories:
   - bitcoin
   - whitepaper
