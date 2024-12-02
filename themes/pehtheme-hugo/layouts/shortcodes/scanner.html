@@ -2,21 +2,24 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Crypto Wallet Token Scanner</title>
     <link rel="stylesheet" href="/css/stylesa.css" />
   </head>
   <body>
     <div class="container">
-      <p>
-        karena keterbatasan limit api, alamat yang di submit akan diarahkan ke
-        debank.com
-      </p>
-      <h1>Scan isi dompet Crypto mu</h1>
-
       <input type="text" id="walletAddress" placeholder="Masukkan address" />
       <button onclick="scanWallet()">Scan Wallet</button>
       <div id="error-message" class="error-message"></div>
       <script src="/js/debank.js"></script>
     </div>
+    <p>
+        karena keterbatasan limit api, alamat yang di submit akan diarahkan ke
+        debank.com
+      </p>
+      <p>
+        setelah tab terbuka, silahkan lihat total kesulurahn saldo mu dari </br>
+        token, LP, staking, dan NFT karena aplikasi dompet kripto seperti </br>
+        trust wallet terkadang tidak menampilkan semua aset yang masuk.
+      </p>
+    
   </body>
 </html>
