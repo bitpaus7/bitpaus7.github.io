@@ -2,7 +2,7 @@
 title: "Apakah Komputer Kuantum Akan Menghancurkan Blockchain?"
 date: 2024-11-26
 slug: /komputer-kuantum-vs-blockchain/
-image: images/komputer-kuantum.jpg
+image: images/komputer-kuantum.webp
 
 draft: false
 ---
