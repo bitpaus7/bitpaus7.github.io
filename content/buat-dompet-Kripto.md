@@ -1,5 +1,5 @@
 ---
-title: "Buat Dompet Krypto"
+title: "Buat Dompet Kripto"
 date: 2024-11-29
 slug: /buat-dompet-kripto/
 
