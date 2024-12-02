@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Crypto Wallet Token Scanner</title>
+    <link rel="stylesheet" href="/css/stylesa.css" />
+  </head>
+  <body>
+    <div class="container">
+      <p>
+        karena keterbatasan limit api, alamat yang di submit akan diarahkan ke
+        debank.com
+      </p>
+      <h1>Scan isi dompet Crypto mu</h1>
+
+      <input type="text" id="walletAddress" placeholder="Masukkan address" />
+      <button onclick="scanWallet()">Scan Wallet</button>
+      <div id="error-message" class="error-message"></div>
+      <script src="/js/debank.js"></script>
+    </div>
+  </body>
+</html>
