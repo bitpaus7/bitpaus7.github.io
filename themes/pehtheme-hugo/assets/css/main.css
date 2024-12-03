@@ -2539,6 +2539,7 @@ ul li a:hover {
   .centered {
     text-align: center;
     margin: 20px auto;
+    width: 60%;
   }
 
   .centered img {
