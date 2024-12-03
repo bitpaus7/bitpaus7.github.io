@@ -1051,6 +1051,7 @@ video {
   border-radius: 8px;
   background-color: #f3f3f3;
   color: #333;
+  font-weight: 500;
 }
 
 #menu-bar li a:hover {
