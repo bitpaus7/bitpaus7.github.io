@@ -3,6 +3,8 @@ title: "Cara Install Metamask Ekstensi di Macbook Safari"
 date: 2024-12-03
 slug: /cara-install-metamask-ekstensi-di-macbook-safari/
 image: images/metamac.webp
+tags:
+  - tutorial
 
 draft: false
 ---
