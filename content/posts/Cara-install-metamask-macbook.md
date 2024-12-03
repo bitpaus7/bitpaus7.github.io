@@ -15,7 +15,7 @@ Safari menggunakan Safari App Extensions, yang berbeda dari Chrome Extensions. E
 
 Dengan begitu ekstensi Metamask tidak bisa digunakan, Namun saya orang nya tidak mudah menyerah. belum puas jika belum menemukan solusi.
 
-setelah saya mencoba beberapa dompet crypto, seperti metamask, zerion dan trust wallet, saya putuskan bahwa Trust wallet yang terbaik untuk mac saat ini.
+setelah saya mencoba beberapa dompet crypto, seperti metamask, zerion dan trust wallet, saya putuskan bahwa __Trust wallet adalah pilihan terbaik untuk mac saat ini.__
 
 Dengan trust wallet kamu bisa menghubungkan dompet crypto mu dengan web3 apps seperti uniswap, 1inch, AAVE dan Compound.
 
@@ -26,7 +26,7 @@ Pertama saat ingin menghubungkan dompet, pilih wallet connect
 
 Lalu disini tinggal copy url nya
 
-{{< figure src="/images/copyurl.webp" alt="url connect wallet">}}
+{{< figure src="/images/copyurl.webp" width="50%" alt="url connect wallet">}}
 
 lalu buka trust wallet yang sudah di unduh dari app store
 pilih scan
