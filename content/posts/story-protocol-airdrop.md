@@ -3,6 +3,8 @@ title: "Story Protocol Airdrop potensial 2024 wajib kamu coba"
 date: 2024-12-02
 slug: /Story-protocol-airdrop/
 image: images/story.webp
+tags: 
+  - Airdrop
 
 draft: false
 ---
@@ -48,4 +50,4 @@ Story protocol: https://x.com/storyprotocol
 Discord: https://discord.gg/storyprotocol 
 website: http://story.foundation/
 dokumentasi: 
-https://docs.story.foundation/docs/get-started-with-the-smart-contracts
+http://bit.ly/4eYUVRS
