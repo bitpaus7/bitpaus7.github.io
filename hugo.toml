@@ -15,10 +15,8 @@ theme = 'pehtheme-hugo'
 [pagination]
   pagerSize = 9  # Jumlah post per halaman
   summaryLength = '20'  # Panjang ringkasan (20 kata)
-
-  [services]
-  [services.googleAnalytics]
-    ID = 'G-B54LJHB6HR'
+  googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
+  disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
 
 [author]
   name = 'Anthony Arphan'
