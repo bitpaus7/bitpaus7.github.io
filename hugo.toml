@@ -12,13 +12,10 @@ theme = 'pehtheme-hugo'
     name = "X"
     bio = "Penulis artikel blog tentang teknologi dan investasi crypto."
 
-[services]
-  [services.googleAnalytics]
-    id = "G-B54LJHB6HR"  # ID Google Analytics Anda
-
 [pagination]
   pagerSize = 9  # Jumlah post per halaman
   summaryLength = '20'  # Panjang ringkasan (20 kata)
+  googleAnalytics = 'G-B54LJHB6HR' # <- Your GA-4
 
 [author]
   name = 'Anthony Arphan'
