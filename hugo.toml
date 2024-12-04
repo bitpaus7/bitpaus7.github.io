@@ -4,8 +4,11 @@ title = 'BITPAUS'
 theme = 'pehtheme-hugo'
 
 [params]
-  siteName = "myweb"
-  description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
+  siteName = "BITPAUS"
+  description = 'Bitpaus adalah platform Informasi seputar crypto, Dengan visi
+membangun literasi digital dan finansial yang kuat bagi seluruh
+masyarakat Indonesia, Serta meningkatkan kesadaran akan
+bahaya nya judi online'
   mainSections = 'posts'
 
   [params.author]
