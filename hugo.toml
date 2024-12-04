@@ -12,15 +12,13 @@ theme = 'pehtheme-hugo'
     name = "X"
     bio = "Penulis artikel blog tentang teknologi dan investasi crypto."
 
+[services]
+  [services.googleAnalytics]
+    id = "G-B54LJHB6HR"  # ID Google Analytics Anda
 
 [pagination]
-  pagerSize = 9 # Set the desired number of posts per page
-  summaryLength = '20' # <- 20 words are approximately 160 characters
-  disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
-
-  [services]
-  [services.googleAnalytics]
-    id = "G-B54LJHB6HR"  # Ganti dengan ID Google Analytics Anda
+  pagerSize = 9  # Jumlah post per halaman
+  summaryLength = '20'  # Panjang ringkasan (20 kata)
 
 [author]
   name = 'Anthony Arphan'
@@ -28,12 +26,12 @@ theme = 'pehtheme-hugo'
   avatar = '/images/nasa-astronaut-unsplash.jpg'
   twitter = 'https://twitter.com/insertapps'
 
-[menu] # Menu management
+[menu]
   [[menu.main]]
     name = 'Home'
     pageRef = '/'
     weight = 10
-[[menu.main]]
+  [[menu.main]]
     name = 'Berita'
     pageRef = '/tags/berita'
     weight = 15
@@ -45,20 +43,21 @@ theme = 'pehtheme-hugo'
     name = 'Tutorial'
     pageRef = '/tags/tutorial'
     weight = 25
-   [[menu.main]]
+  [[menu.main]]
     name = 'Opini'
     pageRef = '/tags/opini'
     weight = 30
-  
+
 [module]
   [module.hugoVersion]
     extended = false
     min = "0.116.0"
-  [[module.mounts]] # Directing the static folder to assets.
+
+  [[module.mounts]]
     source = 'assets'
     target = 'static'
 
 [permalinks]
-posts = "/:slug/"
-halaman = "/:slug/"
-tags = "/:slug/"
+  posts = "/:slug/"
+  halaman = "/:slug/"
+  tags = "/:slug/"
