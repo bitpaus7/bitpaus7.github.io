@@ -15,7 +15,10 @@ theme = 'pehtheme-hugo'
 [pagination]
   pagerSize = 9  # Jumlah post per halaman
   summaryLength = '20'  # Panjang ringkasan (20 kata)
-  googleAnalytics = 'G-B54LJHB6HR' # <- Your GA-4
+
+  [services]
+  [services.googleAnalytics]
+    id = "G-B54LJHB6HR"  # Ganti dengan ID Google Analytics Anda
 
 [author]
   name = 'Anthony Arphan'
