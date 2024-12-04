@@ -16,8 +16,11 @@ theme = 'pehtheme-hugo'
 [pagination]
   pagerSize = 9 # Set the desired number of posts per page
   summaryLength = '20' # <- 20 words are approximately 160 characters
-  googleAnalytics = 'G-B54LJHB6HR' # <- Your GA-4
   disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
+
+  [services]
+  [services.googleAnalytics]
+    id = "G-B54LJHB6HR"  # Ganti dengan ID Google Analytics Anda
 
 [author]
   name = 'Anthony Arphan'
