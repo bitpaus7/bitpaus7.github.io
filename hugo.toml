@@ -5,16 +5,17 @@ theme = 'pehtheme-hugo'
 
 [params]
   siteName = "BITPAUS"
-  description = 'Bitpaus adalah platform Informasi seputar crypto, Dengan visi membangun literasi digital dan finansial yang kuat bagi seluruh masyarakat Indonesia, Serta meningkatkan kesadaran akan bahaya nya judi online'
+  description = 'Bitpaus adalah platform Informasi seputar crypto, dengan visi membangun literasi digital dan finansial yang kuat bagi seluruh masyarakat Indonesia, Serta meningkatkan kesadaran akan bahaya nya judi online.'
   mainSections = 'posts'
 
   [params.author]
     name = "X"
     bio = "Penulis artikel blog tentang teknologi dan investasi crypto."
 
+
 [pagination]
-  pagerSize = 9  # Jumlah post per halaman
-  summaryLength = '20'  # Panjang ringkasan (20 kata)
+  pagerSize = 6 # Set the desired number of posts per page
+  summaryLength = '20' # <- 20 words are approximately 160 characters
   googleAnalytics = 'G-MEASUREMENT_ID' # <- Your GA-4
   disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.com
 
