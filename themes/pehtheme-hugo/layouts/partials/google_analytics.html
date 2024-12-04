@@ -3,7 +3,10 @@
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
+  console.log("Google Analytics initialized with ID: {{ .Site.Config.Services.GoogleAnalytics.ID }}");
   gtag('js', new Date());
   gtag('config', '{{ .Site.Config.Services.GoogleAnalytics.ID }}');
 </script>
+{{ else }}
+  <script>console.warn("Google Analytics ID is missing!");</script>
 {{ end }}
