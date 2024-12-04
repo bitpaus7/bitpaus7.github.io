@@ -21,8 +21,8 @@ transaksi secara aman, transparan, dan permanen.
 
 Semua rakyat diseluruh dunia bisa menggunakan Bitcoin.
 
-Bitcoin = coin crypto (misal rupiah)
-Blockchain = Infrastruktur nya (misal aplikasi dana, atau gopay)
+Bitcoin = coin crypto (misal rupiah)  
+Blockchain = Infrastruktur nya (misal aplikasi dana, atau gopay)  
 ALamat bitcoin = 17Xw2cUiXoW5dohc1bkX7BsEJFiaLtHSor (nomor dana dan sejenis nya)
 
 saat mengirim uang menggunakan bitcoin,
@@ -32,7 +32,7 @@ disinilah peran Miner (penambang) bekerja.
 
 para penambang itu, yang nambang nya bukan orang ya ges ya.
 
-tapi mesin, kaya CPU, GPU yang ada di hp/laptop juga, namun yang lebih efisien menggunakan
+tetapi mesin, kaya CPU, GPU yang ada di hp/laptop juga, namun yang lebih efisien menggunakan
 ASIC (Application-Specific Integrated Circuit).
 
 saya tidak akan menjelaskan lebih rinci, karena saya ingin artikel ini
@@ -43,7 +43,7 @@ bitcoin yang kamu kirim sampai ketujuan.
 
 Berapa jumlah maksimal bitcoin ? total 21jt
 
-berapa imbalan penambang bitcoin ? 3,125 BTC
+berapa imbalan penambang bitcoin ? 3,125 BTC  
 imbalan akan dikurangi setengah tiap 4 tahun sekali,
 nanti 2028 jadi 1,5625 BTC per blok transaksi, sampai tahun 2140 blok terakhir di mining
 
