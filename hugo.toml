@@ -5,10 +5,7 @@ theme = 'pehtheme-hugo'
 
 [params]
   siteName = "BITPAUS"
-  description = 'Bitpaus adalah platform Informasi seputar crypto, Dengan visi
-membangun literasi digital dan finansial yang kuat bagi seluruh
-masyarakat Indonesia, Serta meningkatkan kesadaran akan
-bahaya nya judi online'
+  description = 'Bitpaus adalah platform Informasi seputar crypto, Dengan visi membangun literasi digital dan finansial yang kuat bagi seluruh masyarakat Indonesia, Serta meningkatkan kesadaran akan bahaya nya judi online'
   mainSections = 'posts'
 
   [params.author]
