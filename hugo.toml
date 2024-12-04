@@ -15,10 +15,7 @@ theme = 'pehtheme-hugo'
 [pagination]
   pagerSize = 9  # Jumlah post per halaman
   summaryLength = '20'  # Panjang ringkasan (20 kata)
-
-  [services]
-  [services.googleAnalytics]
-    id = "G-B54LJHB6HR"  # Ganti dengan ID Google Analytics Anda
+  googleAnalytics = "G-B54LJHB6HR"
 
 [author]
   name = 'Anthony Arphan'
