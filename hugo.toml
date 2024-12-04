@@ -15,13 +15,17 @@ theme = 'pehtheme-hugo'
 [pagination]
   pagerSize = 9  # Jumlah post per halaman
   summaryLength = '20'  # Panjang ringkasan (20 kata)
-  googleAnalytics = "G-B54LJHB6HR"
+
+  [services]
+  [services.googleAnalytics]
+    ID = 'G-B54LJHB6HR'
 
 [author]
   name = 'Anthony Arphan'
   bio = 'Debitis assumenda esse dignissimos aperiam delectus maxime tenetur repudiandae dolore'
   avatar = '/images/nasa-astronaut-unsplash.jpg'
   twitter = 'https://twitter.com/insertapps'
+  
 
 [menu]
   [[menu.main]]
