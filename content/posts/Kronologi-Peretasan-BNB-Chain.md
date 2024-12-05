@@ -1,8 +1,10 @@
 ---
 title: "Kronologi Peretasan Binance Chain"
-date: 2024-12-01
+date: 2024-12-05
 slug: /kronologi-peretasan-binance/
 image: images/bnb.webp
+tags:
+  - berita
 
 draft: false
 ---
