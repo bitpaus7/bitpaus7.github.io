@@ -8,11 +8,19 @@
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}" />
 {{- partialCached "head/css.html" . -}}
 
-<!-- Google Analytics Manual -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-S5LP9V3ZJ6"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
-  gtag('js', new Date());
-  gtag('config', 'G-S5LP9V3ZJ6');
+  window.addEventListener('load', () => {
+    const script = document.createElement('script');
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-S5LP9V3ZJ6';
+    script.async = true;
+    document.head.appendChild(script);
+    
+    script.onload = () => {
+      window.dataLayer = window.dataLayer || [];
+      function gtag() { dataLayer.push(arguments); }
+      gtag('js', new Date());
+      gtag('config', 'G-S5LP9V3ZJ6');
+    };
+  });
 </script>
+
