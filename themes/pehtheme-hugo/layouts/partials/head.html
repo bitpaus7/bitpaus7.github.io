@@ -2,13 +2,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <!-- Dynamic title for SEO -->
 <title>
-  {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title
-  site.Title }}{{ end }}
+  {{ if .IsHome }}{{ site.Title }}{{ else }}{{ printf "%s | %s" .Title site.Title }}{{ end }}
 </title>
 <!-- Dynamic description for SEO -->
-<meta
-  name="description"
-  content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}"
-/>
-{{- partialCached "head/css.html" . -}} 
-{{- template "_internal/google_analytics.html" . -}}
+<meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}" />
+{{- partialCached "head/css.html" . -}}
+
+<!-- Google Analytics Manual -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-S5LP9V3ZJ6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', 'G-S5LP9V3ZJ6');
+</script>
