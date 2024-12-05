@@ -23,7 +23,9 @@ Semua rakyat diseluruh dunia bisa menggunakan Bitcoin.
 
 Bitcoin = coin crypto (misal rupiah)  
 Blockchain = Infrastruktur nya (misal aplikasi dana, atau gopay)  
-Alamat bitcoin = >17Xw2cUiXoW5dohc1bkX7BsEJFiaLtHSor (nomor dana dan sejenis nya)
+Alamat bitcoin = 
+> 17Xw2cUiXoW5dohc1bkX7BsEJFiaLtHSor 
+(nomor dana dan sejenis nya)
 
 saat mengirim uang menggunakan bitcoin,
 transaksi itu tentu harus diverifikasi ke aslian nya.
