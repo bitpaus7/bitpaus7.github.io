@@ -6,7 +6,6 @@ image: /images/bip39.webp
 tags:
   - opini
   - tutorial
-  - airdrop
 
 draft: false
 ---
