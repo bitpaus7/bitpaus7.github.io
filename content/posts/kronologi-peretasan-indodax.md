@@ -42,19 +42,19 @@ setelah itu menukarkan hasil cuurian dan memindahkan ke alamat ini:
 
 Ethereum ($12.37m):
 
-> [0x59101E532bc728599a2d373fCdC7aFf58cB48Df8](https://etherscan.io/address/0x59101e532bc728599a2d373fcdc7aff58cb48df8)
+>[0x59101E532bc728599a2d373fCdC7aFf58cB48Df8](https://etherscan.io/address/0x59101e532bc728599a2d373fcdc7aff58cb48df8)
 
 Misc erc-20 tokens on Ethereum ($1.2m):
-[0xB0A2e43D3E0dc4C71346A71484aC6a2627bbCbeD](https://etherscan.io/address/0xb0a2e43d3e0dc4c71346a71484ac6a2627bbcbed)
+>[0xB0A2e43D3E0dc4C71346A71484aC6a2627bbCbeD](https://etherscan.io/address/0xb0a2e43d3e0dc4c71346a71484ac6a2627bbcbed)
 
 Optimism ($900k):
-[0x3B8F1131a20e131c195bdA6FDd6e9bE38935eB6d](https://optimistic.etherscan.io/address/0x3b8f1131a20e131c195bda6fdd6e9be38935eb6d)
+>[0x3B8F1131a20e131c195bdA6FDd6e9bE38935eB6d](https://optimistic.etherscan.io/address/0x3b8f1131a20e131c195bda6fdd6e9be38935eb6d)
 
 Polygon ($6.8m):
-[0x3B8F1131a20e131c195bdA6FDd6e9bE38935eB6d](https://polygonscan.com/address/0x90fffbc09e9a5f6d035e92d25d67e244ef5e904f)
+>[0x3B8F1131a20e131c195bdA6FDd6e9bE38935eB6d](https://polygonscan.com/address/0x90fffbc09e9a5f6d035e92d25d67e244ef5e904f)
 
 Tron ($2.55m):
-[TBooefeY6FvGuyKfvp5yE1HmzhzvXnvA1P](https://tronscan.org/#/address/TBooefeY6FvGuyKfvp5yE1HmzhzvXnvA1P)
+>[TBooefeY6FvGuyKfvp5yE1HmzhzvXnvA1P](https://tronscan.org/#/address/TBooefeY6FvGuyKfvp5yE1HmzhzvXnvA1P)
 
 BTC ($1.4m):
-[bc1q5uqpn0ha5llrvhcvkq3nfalp8fj7qe3rydcvmf](https://www.blockchain.com/explorer/addresses/btc/bc1q5uqpn0ha5llrvhcvkq3nfalp8fj7qe3rydcvmf)
+>[bc1q5uqpn0ha5llrvhcvkq3nfalp8fj7qe3rydcvmf](https://www.blockchain.com/explorer/addresses/btc/bc1q5uqpn0ha5llrvhcvkq3nfalp8fj7qe3rydcvmf)
