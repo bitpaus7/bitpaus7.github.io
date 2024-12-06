@@ -1,6 +1,6 @@
 ---
 title: "Kronologi Wormhole: $326 juta raib dicuri hacker"
-date: 2024-11-26
+date: 2022-02-02
 slug: /kronologi-peretasan-wormhole/
 image: images/wormhole.webp
 tags:
