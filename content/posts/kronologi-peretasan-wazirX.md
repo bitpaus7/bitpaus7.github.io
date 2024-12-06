@@ -2,7 +2,7 @@
 title: "Kronologi peretasan wazirX"
 date: 2024-07-18
 slug: /kronologi-peretasan-wazirx/
-image: images/wazirz
+image: images/wazirx.webp
 tags:
   - berita
 
