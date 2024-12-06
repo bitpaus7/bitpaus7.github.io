@@ -1,6 +1,6 @@
 ---
 title: "Poly network: kecerobohan yang terselamatkan"
-date: 2024-12-03
+date: 2021-10-08
 slug: /kronologi-peretasan-polynetwork/
 image: images/polynetwork.webp
 tags:
