@@ -1,7 +1,7 @@
 ---
 title: "Skandal SBF dan Keruntuhan FTX"
 date: 2022-12-11
-slug: /kronologi-peretasan-binance/
+slug: /skandal-sbf-dan-keruntuhan-ftx/
 image: images/sbf.webp
 caption: Photo by adamtrannews Opensea
 tags:
