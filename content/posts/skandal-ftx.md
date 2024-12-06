@@ -3,6 +3,7 @@ title: "Skandal SBF dan Keruntuhan FTX"
 date: 2024-12-06
 slug: /kronologi-peretasan-binance/
 image: images/sbf.webp
+caption: Photo by adamtrannews Opensea
 tags:
   - berita
 
