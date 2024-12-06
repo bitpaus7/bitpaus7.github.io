@@ -38,7 +38,7 @@ Para peneliti mencurigai bahwa serangan ini mirip dengan modus operasi Lazarus G
 1,4 juta ARB (senilai $749,6 ribu)
 2 juta ENA (senilai $465 ribu)
 
-setelah itu menukarkan hasil cuurian dan memindahkan ke alamat ini:
+setelah itu menukarkan hasil curian dan memindahkan ke alamat berikut:
 
 Ethereum ($12.37m):
 
