@@ -40,7 +40,9 @@ Namun, komentar ini tampaknya bertentangan dengan tanggapannya terhadap insiden 
 
 “Jika Anda menerima jumlah COMP yang besar secara salah dari kesalahan protokol Compound:
 
-Harap kembalikan ke Compound Timelock (0x6d903f6003cca6255D85CcA4D3B5E5146dC33925).
+Harap kembalikan ke Compound Timelock  
+>(0x6d903f6003cca6255D85CcA4D3B5E5146dC33925)
+
 Simpan 10% sebagai white-hat reward.
 Jika tidak, ini akan dilaporkan sebagai penghasilan kepada IRS, dan sebagian besar dari Anda sudah teridentifikasi (doxxed).”
 
