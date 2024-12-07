@@ -8,7 +8,6 @@ tags:
 
 draft: false
 ---
-
 Di tengah krisis perbankan dan ketegangan di pasar stablecoin, dunia DeFi kembali diguncang dengan serangan besar yang menargetkan salah satu protokol pinjaman terbesar, Euler Finance. Serangan ini menyebabkan kerugian sekitar $200 juta, yang langsung mempengaruhi berbagai proyek dan dana yang terikat di dalamnya.
 
 ### Bagaimana Serangan Terjadi?
