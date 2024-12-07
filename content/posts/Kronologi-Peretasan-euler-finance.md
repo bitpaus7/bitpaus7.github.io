@@ -11,7 +11,7 @@ draft: false
 
 Di tengah krisis perbankan dan ketegangan di pasar stablecoin, dunia DeFi kembali diguncang dengan serangan besar yang menargetkan salah satu protokol pinjaman terbesar, Euler Finance. Serangan ini menyebabkan kerugian sekitar $200 juta, yang langsung mempengaruhi berbagai proyek dan dana yang terikat di dalamnya.
 
-Bagaimana Serangan Terjadi?
+### Bagaimana Serangan Terjadi?
 
 Euler Finance mengelola pinjaman melalui eToken (jaminan) dan dToken (utang). Ketika seorang pengguna memiliki lebih banyak dToken daripada eToken, proses likuidasi akan berjalan. Namun, celah di protokol ini terletak pada fungsi donateToReserves, yang memungkinkan pengguna menyumbangkan eToken ke cadangan Euler tanpa memeriksa kondisi utang mereka.
 
