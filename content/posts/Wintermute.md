@@ -15,13 +15,16 @@ Wintermute telah kehilangan lebih dari $160 juta dalam insiden kedua mereka musi
 CEO perusahaan tersebut menyatakan bahwa penggunaan alamat vanity ini dimaksudkan untuk "penghematan gas" sebuah pilihan yang sangat mahal. Ketika Wintermute mengalami kerugian sebelumnya, pelaku mengembalikan (sebagian besar) dana yang dicuri. Apakah mereka akan tetap beruntung kali ini?
 
 Alamat peretas:
-[0xe74b28c2eAe8679e3cCc3a94d5d0dE83CCB84705](https://etherscan.io/address/0xe74b28c2eAe8679e3cCc3a94d5d0dE83CCB84705)
+>[0xe74b28c2eAe8679e3cCc3a94d5d0dE83CCB84705](https://etherscan.io/address/0xe74b28c2eAe8679e3cCc3a94d5d0dE83CCB84705)
+
 Kontrak serangan:
-[0x0248f752802b2cfb4373cc0c3bc3964429385c26](https://etherscan.io/address/0x0248f752802b2cfb4373cc0c3bc3964429385c26)
+>[0x0248f752802b2cfb4373cc0c3bc3964429385c26](https://etherscan.io/address/0x0248f752802b2cfb4373cc0c3bc3964429385c26)
+
 Transaksi utama serangan:
-[0xedd31e2a…](https://etherscan.io/tx/0xedd31e2a949b7957a786d44b071dbe1bc5abd5c57e269edb9ec2bf1af30e9ec4)
+>[0xedd31e2a…](https://etherscan.io/tx/0xedd31e2a949b7957a786d44b071dbe1bc5abd5c57e269edb9ec2bf1af30e9ec4)
+
 Transaksi serangan kedua:
-[0xc253450f…](https://etherscan.io/tx/0xc253450fc3e0e124224aef2936c13b371a86056e82e778113fc3ce8800bbe876)
+>[0xc253450f…](https://etherscan.io/tx/0xc253450fc3e0e124224aef2936c13b371a86056e82e778113fc3ce8800bbe876)
 
 Penyebab yang mungkin dari peretasan ini adalah kelemahan dalam alat Profanity yang digunakan untuk membuat alamat vanity. Setelah pengungkapan kerentanannya minggu lalu, $3,3 juta dicuri dari berbagai dompet oleh alamat 0x6AE09A… dalam beberapa hari berikutnya. Baik dompet panas Wintermute maupun kontrak vault DeFi mereka tampaknya memiliki alamat vanity, dengan beberapa angka nol di depan. Kunci pribadi dompet panas kemungkinan besar terkompromi dan digunakan untuk menguras vault.
 
