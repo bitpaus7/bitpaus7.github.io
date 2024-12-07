@@ -4,6 +4,7 @@ date: 2021-04-12
 slug: /kronologi-peretasan-bitmart/
 image: images/bitmart.webp
 tags:
+  - berita
 
 draft: false
 ---
