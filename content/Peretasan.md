@@ -13,7 +13,7 @@ draft: false
 3. [BNB Bridge](https://bitpaus.com/kronologi-peretasan-binance/)  
    $586.000.000 | 10/06/2022
 4. [Skandal SBF](https://bitpaus.com/skandal-sbf-dan-keruntuhan-ftx/)  
-   $477.000.000 | 11/12/22
+   $477.000.000 | 11/12/2022
 5. [Wormhole brdige](https://bitpaus.com/kronologi-peretasan-wormhole/)  
    $326.000.000 | 02/02/2022
 6. [DMM exchange](https://bitpaus.com/kronologi-peretasan-crypto-dmm/)  
