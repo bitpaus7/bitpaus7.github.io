@@ -1,6 +1,6 @@
 ---
 title: "Kronologi Vulcan Forge"
-date: 2024-11-29
+date: 2021-12-13
 slug: /vulcan-forge/
 image: images/vulca.webp
 tags:
@@ -14,7 +14,7 @@ Vulcan Forged, sebuah "studio game blockchain" dan "marketplace NFT," menghadapi
 Untuk mendukung fitur-fitur ini, akun pengguna terhubung dengan dompet terintegrasi yang disediakan oleh Venly. Namun, kunci privat dari 96 alamat dompet pengguna berhasil dikompromikan, memungkinkan penyerang untuk menguras isinya. Selain $PYR, token lain seperti ETH dan MATIC juga ikut dicuri.
 
 Alamat hacker:
-[0x48ad05a3B73c9E7fAC5918857687d6A11d2c73B1](https://etherscan.io/address/0x48ad05a3B73c9E7fAC5918857687d6A11d2c73B1)
+>[0x48ad05a3B73c9E7fAC5918857687d6A11d2c73B1](https://etherscan.io/address/0x48ad05a3B73c9E7fAC5918857687d6A11d2c73B1)
 
 Dana hasil pencurian kemudian dipindahkan ke beberapa dompet lain, termasuk salah satu dompet yang diketahui menyimpan sekitar $40 juta $PYR dan $600 ribu ETH. Tim Vulcan Forged mengklaim telah mengidentifikasi sebuah alamat yang mungkin terkait dengan bursa yang mewajibkan KYC (Know Your Customer).
 
