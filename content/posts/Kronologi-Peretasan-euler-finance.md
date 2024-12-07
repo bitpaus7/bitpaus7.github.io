@@ -2,7 +2,7 @@
 title: "Kronologi Peretasan Euler Finance"
 date: 2023-03-14
 slug: /kronologi-euler-finance/
-images: images/euler.webp
+image: images/euler.webp
 tags:
   - berita
 
