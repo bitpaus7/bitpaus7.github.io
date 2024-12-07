@@ -37,11 +37,11 @@ Dana yang dicuri sebagian besar terdiri dari stablecoin, totalnya $118,4 juta. S
 Tornado 3pool?
 Sisa loot terdiri dari 671 WBTC (~$13 juta) dan 6.928 ETH ($9,4 juta) serta berbagai token lainnya. Pada saat penulisan, alamat pelaku diperkirakan bernilai sekitar $162,3 juta. Meskipun pernyataan Wintermute meyakinkan bahwa "tidak akan ada penjualan besar," beberapa token dengan kapitalisasi pasar lebih kecil berisiko terhadap potensi dump, dengan hingga 21% dari pasokan beredar yang dicuri dalam peretasan ini:
 
-$PRIMATE 21%
-$CUBE 12%
-$NYM 2,44%
-$eXRD 1,93%
-$YGG 1,17%
+$PRIMATE 21%  
+$CUBE 12%  
+$NYM 2,44%  
+$eXRD 1,93%  
+$YGG 1,17%  
 
 Sebagian besar aset belum dipertukarkan. Apakah pelaku mencoba bernegosiasi untuk mendapatkan hadiah white-hat?
 
