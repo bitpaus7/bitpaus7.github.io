@@ -1,6 +1,6 @@
 ---
 title: "Kronologi Wintermute"
-date: 2024-09-20
+date: 2022-09-20
 slug: /kronologi-wintermute/
 image: images/wintermute.webp
 tags:
