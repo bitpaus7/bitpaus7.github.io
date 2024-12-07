@@ -25,11 +25,16 @@ Token-token ini digunakan untuk menambah likuiditas di kolam Curve dengan BEAN u
 
 Alamat Pelaku:
 
-Hacker: 0x1c5dcdd006ea78a7e4783f9e6021c32935a10fb4
-Kontrak Hacker: 0x79224bc0bf70ec34f0ef56ed8251619499a59def
-BIP18: 0xe5ecf73603d98a0128f05ed30506ac7a663dbb69
-Transaksi Proposal BIP18: 0x68cdec0ac76454c3b0f7af0b8a3895db00adf6daaf3b50a99716858c4fa54c6f
-Transaksi Hack: 0xcd314668aaa9bbfebaf1a0bd2b6553d01dd58899c508d4729fa7311dc5d33ad7
+Hacker:
+>[0x1c5dcdd006ea78a7e4783f9e6021c32935a10fb4](https://etherscan.io/address/0x1c5dcdd006ea78a7e4783f9e6021c32935a10fb4)
+Kontrak Hacker:
+>[0x79224bc0bf70ec34f0ef56ed8251619499a59def](https://etherscan.io/address/0x79224bc0bf70ec34f0ef56ed8251619499a59def)
+BIP18:
+>[0xe5ecf73603d98a0128f05ed30506ac7a663dbb69](https://etherscan.io/address/0xe5ecf73603d98a0128f05ed30506ac7a663dbb69)
+Transaksi Proposal BIP18:
+>[0x68cdec0ac76454c3b0f7af0b8a3895db00adf6daaf3b50a99716858c4fa54c6f](https://etherscan.io/tx/0x68cdec0ac76454c3b0f7af0b8a3895db00adf6daaf3b50a99716858c4fa54c6f)
+Transaksi Hack:
+>[0xcd314668aaa9bbfebaf1a0bd2b6553d01dd58899c508d4729fa7311dc5d33ad7](https://etherscan.io/tx/0x68cdec0ac76454c3b0f7af0b8a3895db00adf6daaf3b50a99716858c4fa54c6f)
 
 ### Langkah-langkah Serangan:
 
