@@ -5,6 +5,7 @@
 <!-- Dynamic description for SEO -->
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}" />
 {{- partialCached "head/css.html" . -}}
+<script src="/js/search.js" defer></script>
 
 <script>
   window.addEventListener('load', () => {
