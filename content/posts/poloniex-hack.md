@@ -1,6 +1,6 @@
 ---
 title: "Kronologi Peretasan Poloniex"
-date: 2024-11-29
+date: 2023-10-11
 slug: /kronologi-peretasan-poloniex/
 image: images/poloniex.webp
 tags:
