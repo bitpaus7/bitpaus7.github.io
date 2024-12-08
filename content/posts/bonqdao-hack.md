@@ -23,9 +23,17 @@ Namun, fakta di blockchain berkata lain. Peretasan ini melibatkan manipulasi ora
 
 ### Alamat Terkait Peretas dan Kontrak
 
-Alamat Peretas: 0xcacf2d28b2a5309e099f0c6e8c60ec3ddf656642
-Contoh Transaksi Peretasan: 0x31957ecc...
-Kontrak yang Diserang: 0x8f55d884cad66b79e1a131f6bcb0e66f4fd84d5b
+Alamat Peretas:
+
+> [0xcacf2d28b2a5309e099f0c6e8c60ec3ddf656642](https://polygonscan.com/address/0xcacf2d28b2a5309e099f0c6e8c60ec3ddf656642)
+
+Contoh Transaksi Peretasan:
+
+> [na0x31957ecc...ma](https://polygonscan.com/tx/0x31957ecc43774d19f54d9968e95c69c882468b46860f921668f2c55fadd51b19)
+
+Kontrak yang Diserang:
+
+> [0x8f55d884cad66b79e1a131f6bcb0e66f4fd84d5b](https://polygonscan.com/address/0x8f55d884cad66b79e1a131f6bcb0e66f4fd84d5b)
 
 ### Tahapan Peretasan
 
