@@ -1,5 +1,5 @@
 ---
-title: "Kronologi Wintermute"
+title: "Kronologi Peretasan Wintermute"
 date: 2022-09-20
 slug: /kronologi-wintermute/
 image: images/wintermute.webp
