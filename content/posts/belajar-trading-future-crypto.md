@@ -4,6 +4,7 @@ date: 2024-12-08
 slug: /belajar-trading-future-crypto-untuk-pemula/
 image: images/trading-future-crypto.webp
 tags:
+  - feature
   - tutorial
 
 draft: false
