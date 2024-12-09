@@ -2328,14 +2328,13 @@ ul li a:hover {
 /* Tambahkan jarak antara judul menu dan link */
 .flex.flex-col.space-y-2 h4 {
   margin-bottom: 8px; /* Jarak antara judul dan daftar menu */
-  text-align: center;
   font-weight: bold;
-  margin-left: -11px;
+  margin-left: 8px;
 }
 
 /* Jarak antara kolom menu (horizontal spacing) */
 .flex.justify-between > div {
-  margin-right: 90px; /* Jarak antar kolom menu */
+  margin-right: 33px; /* Jarak antar kolom menu */
 }
 
 .w-full.md\:w-2\/5 .flex ul {
