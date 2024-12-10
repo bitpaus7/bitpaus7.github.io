@@ -1,8 +1,8 @@
 ---
-title: "Kronologi Vulcan Forge"
+title: "Kronologi Peretasan Vulcan Forge"
 date: 2021-12-13
 slug: /vulcan-forge/
-image: images/vulca.webp
+image: images/vulcan.webp
 tags:
   - berita
 
