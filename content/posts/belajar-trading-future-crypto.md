@@ -88,7 +88,7 @@ di Pintu ada pilihan PINTU pro dimana pengguna nya dapat merasakan trading mengg
 
 Kalau kamu merasa sudah cukup jago dan pro dan ingin merasakan LV lebih besar dari 5x misal 10x atau 50x
 
-sayang nya hanya aplikasi luar saja yang tersedia, seperti Binance, Bybit, Bitget, MEXC dan lain-lain.
+sayang nya hanya aplikasi luar saja yang tersedia, seperti **Binance, Bybit, Bitget, MEXC** dan lain-lain.
 
 Kode refferal Pintu: **@abdul**
 
@@ -102,6 +102,6 @@ Laverage rendah = Trader bijak
 1. **gunakan sinyal dari dari telegram**  
    beberapa channel di telegram memberikan sinyal gratis untuk ambil posisi entah itu long atau short, namun prediksi nya kadang ada yang melesat ada yang berhasil, nama nya manusia tidak mungkin 100% akan terus untung, contoh nya channel gratis yang bisa kamu jadikan referensi untuk open posisi, [Markas Trader](https://t.me/markas_trader) dan [Trading Camp](https://t.me/trading_camp)
 2. **Gunakan laverage kecil**  
-   laverage tinggi sangat tidak disarankan, terlalu dekat dan cepat, dalam satu detik kamu bisa untung ratusan persen, tapi bisa juga aset mu langsung dilikuidasi. gunakan lv kecil sebagai pemulaan.
+   laverage tinggi sangat tidak disarankan, terlalu dekat dan cepat, dalam satu detik kamu bisa untung ratusan persen, tetapi bisa juga aset mu langsung dilikuidasi. gunakan lv kecil sebagai pemulaan.
 3. **Tujuan**  
-   Tentukan tujuan mu, kalau mau fokus untuk karir harus lebih banyak memantau pasar mulai dari perang, dan aset yang ingin kamu eksekusi long/short, misal ada coin yang proyek nya kena hack, segera open short karena harga pasti akan turun, sebalik nya kalo ada coin yang bekerja sama dengen perusahaan besar, misal dengan google atau microsoft itu good news (kabar bagus) dan token akan segera mengalami kenaikan (lakukan long)
+   Tentukan tujuan mu, kalau mau fokus untuk karir harus lebih banyak memantau pasar mulai dari perang, dan aset yang ingin kamu eksekusi long/short, misal ada coin yang proyek nya kena hack, segera open short karena harga pasti akan turun, sebalik nya kalo ada coin yang bekerja sama dengen perusahaan besar, misal dengan google atau microsoft itu good news (kabar bagus) dan token akan segera mengalami kenaikan (lakukan long), Banyak trader sukses dengan trading future dan dijadikan pekerjaan utama, jika kamu main nya serius dan dapat mengelola emosi.
