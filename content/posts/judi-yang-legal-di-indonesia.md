@@ -1,5 +1,5 @@
 ---
-title: "Ternyata ada Jenis judi Online yang legal di Indonesia"
+title: "Ternyata ada Jenis judi Online Yang Legal di Indonesia"
 date: 2024-12-09
 slug: /judi-Online-yang-legal-di-indonesia/
 image: images/judol.webp
@@ -95,7 +95,10 @@ Baca tutorial full nya
 
 - [Belajar Trading Future Crypto untuk pemula](https://bitpaus.com/belajar-trading-future-crypto-untuk-pemula/)
 
-Saya tidak menyarankan kamu bermain Trading future namun jika dibandingkan dengan slot dan trading Option yang kebanyakan scam, maka tidak ada salah nya mencoba trading future.
+Pintu adalah bursa crypto yang legalitas nya sudah terbukti dan banyak diliput media besar seperti, CNN, CNBC
+kamu bisa lihat di website resmi Bappebti [Disini](https://bappebti.go.id/calon_pedagang_aset_kripto)
+
+Saya tidak menyarankan kamu bermain Trading future namun jika dibandingkan dengan slot dan trading Option binomo yang kebanyakan scam, maka tidak ada salah nya mencoba trading future.
 
 Di film film **The immitation Game** menit 22:10
 **Alan turing berkata.**
