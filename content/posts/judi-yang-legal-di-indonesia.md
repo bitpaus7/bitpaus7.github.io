@@ -25,7 +25,7 @@ sering disebut juga domino effect.
 
 saya sebagai anak muda tidak ingin melihat kerusakan ini terus berlanjut, maka dari itu saya akan mencoba sedikit membantu meringankan beban negara dengan mengurangi dampak kerusakan akibat judi online.
 
-## Lalu apa judi yang legal beroprasi di indonesia ??
+## Lalu apa judi Online yang legal beroperasi di indonesia ??
 
 Well sebenarnya bukan judi tapi mirip dan mendekati, Produk ini disebut **Trading Future.**
 
@@ -57,7 +57,7 @@ kamu membuat perjanjian dengan seorang petani untuk membeli 100 kg apel seharga 
 
 Contoh sederhana lain.
 
-misal kamu punya uang 1 juta untuk beli bitoin, lalu beberapa menit kemudian bitcoin nya naik 5%  
+misal kamu punya uang 1 juta untuk beli bitcoin, lalu beberapa menit kemudian bitcoin nya naik 5%  
 1.000.000 x 5% = 50.000 (uang mu menjadi 1.050.000)
 
 itu di spot trading, Kalau di future trading kamu bisa memanfaatkan **Laverage** (pengukit)
@@ -71,11 +71,11 @@ Inti nya dengan trading future kamu bisa menjadi kaya atau miskin dalam sekejap 
 
 namun jika disiplin dan fokus mengolah data pasar, Opsi ini bisa menjadi pekerjaan utama dan jalan untuk kamu keluar dari kemiskinan.
 
-Trading future tidak 100% judi karena **naik turun nya harga di pengaruhi banyak faktor**, mulai dari perang, atau proyek terkena hacking dan harga langsung turun.
+Trading future tidak 100% judi karena **naik turun nya harga di pengaruhi banyak faktor**, mulai dari perang,bencana seperti virus covid, atau proyek terkena hacking dan harga langsung turun.
 
 berbeda dengan judi slot atau Binomo yang pengaturan nya sudah di **setting oleh bandar.**
 
-trading future sangat amat berbeda dengan binomo atau aplikasi sejenis yang buka posisi long/short lalu tunggu beberapa menit dan hasil nya keluar,
+trading future sangat amat berbeda dengan binomo atau aplikasi sejenis yang buka posisi long/short lalu tunggu beberapa menit dan hasil nya keluar.
 
 Trading future lebih mirip judi tebak cuaca, misal jika menebak besok akan hujan dengan taruhan 1 juta, dan ternyata benar besok nya hujan, kamu untung. jika tidak hujan maka kamu rugi.
 
@@ -85,7 +85,7 @@ yaaa bisa sih awan nya di taburin garam, tapi masa iya belain keluarin modal leb
 
 atau taruhan gempa bumi. dalam 2 bulan kedepan akan ada gempa lalu kamu pasang taruhan 1jt. gempa lebih sulit di prediksi.
 
-Trading future tidak memakai waktu 1 menit, saat kamu open posisi trading kamu akan melihat untung dan rugi (PnL) naik turun, dan bisa ditinggal beberapa jam, hari bahkan bulan, jika posisi mu masih merugi atau keuntungan yang masih kurang tinggi.
+Trading future tidak memakai waktu 1 menit, saat kamu membuka open posisi trading, kamu akan melihat untung dan rugi (PnL) naik turun, dan bisa ditinggal beberapa jam, hari bahkan bulan, jika posisi mu masih merugi atau keuntungan yang masih kurang tinggi. dapat ditahan selama mungkin (ada fee inap yang relatif kecil).
 
 ### Dimana saya dapat bermain trading future crypto?
 
@@ -110,7 +110,7 @@ Jika kominfo membaca ini, tolong terapkan beberapa strategi dari ini.
 Terkadang saat saya sedang scroll facebook, ig dan tikok iklan judi masih sering muncul dan ini sangat meresahkan.
 
 **2. Tiru dan timpa**  
-Mengapa tidak kita buat website judi, saat user melakukan deposit, itu artinya rekening dia sudah ketahuan dan dapat diciduk.
+Mengapa tidak buat website judi, saat user melakukan deposit, itu artinya rekening dia sudah ketahuan dan dapat diciduk.
 
 **3. Alihkan**  
 Seperti yang kita tahu pemain judi ingin cepat kaya, mengapa tidak mengalihkan untuk trading crypto, terutama meme coin yang memiliki resiko tinggi (high risk high reward) setidaknya jika mereka rugi, tetap dikenakan pajak saat melakukan jual atau beli nya.
