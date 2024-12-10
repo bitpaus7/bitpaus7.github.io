@@ -32,17 +32,17 @@ draft: false
     $190.000.000 | 08/01/2022
 13. [Beanstalk](https://bitpaus.com/kronologi-peretasan-beanstalk/)  
     $181.000.000 | 04/17/2022
-14. [Wintermute](https://bitpaus.com/kronologi-wintermute/)
+14. [Wintermute](https://bitpaus.com/kronologi-wintermute/)  
     $162.300.000 | 09/20/2022
 15. [Compound](https://bitpaus.com/compound-finance/)  
     $147.000.000 | 09/29/2021
 16. [Vulcan Forged](https://bitpaus.com/vulcan-forge/)  
     $140.000.000 | 12/13/2021
-17. [Cream Finance](https://bitpaus.com/kronologi-cream-finance/)
+17. [Cream Finance](https://bitpaus.com/kronologi-cream-finance/)  
     $130.000.000 | 10/27/2021
 18. [Multichain](https://bitpaus.com/multi-chain/)  
     $126.300.000 | 07/06/2023
-19. [Poliniex](https://bitpaus.com/kronologi-peretasan-poloniex/)
+19. [Poliniex](https://bitpaus.com/kronologi-peretasan-poloniex/)  
     $126.000.000 | 11/10/2023
 20. [Bonqdao](https://bitpaus.com/kronologi-peretasan-bonqdao/)  
     $120.000.000 | 02/01/2023
