@@ -98,6 +98,8 @@ Baca tutorial full nya
 Pintu adalah bursa crypto yang legalitas nya sudah terbukti dan banyak diliput media besar seperti, CNN, CNBC
 kamu bisa lihat di website resmi Bappebti [Disini](https://bappebti.go.id/calon_pedagang_aset_kripto)
 
+Kamu bisa install aplikasi nya di app store/playstore.
+
 Saya tidak menyarankan kamu bermain Trading future namun jika dibandingkan dengan slot dan trading Option binomo yang kebanyakan scam, maka tidak ada salah nya mencoba trading future.
 
 Di film film **The immitation Game** menit 22:10
