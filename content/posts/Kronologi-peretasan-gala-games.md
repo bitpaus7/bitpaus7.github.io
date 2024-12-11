@@ -1,5 +1,5 @@
 ---
-title: "Kronologi Peretasan Gala Ganes"
+title: "Kronologi Peretasan Gala Games"
 date: 2024-05-21
 slug: /Kronologi-peretasan-gala-games/
 image: images/gala.webp
