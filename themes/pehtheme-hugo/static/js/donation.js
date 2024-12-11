@@ -47,5 +47,5 @@ function showEthereumAddress(event) {
   // Menghapus pop-up setelah beberapa detik
   setTimeout(() => {
     popup.remove();
-  }, 15000); // Hapus setelah 4 detik
+  }, 9000); // Hapus setelah 4 detik
 }
