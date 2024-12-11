@@ -11,6 +11,7 @@
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:image" content="{{ with .Params.image }}{{ . | absURL }}{{ else }}{{ .Site.Params.logo | absURL }}{{ end }}" />
 <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}{{ end }}" />
+<meta name="google-adsense-account" content="ca-pub-6468053436887510">
 
 {{- partialCached "head/css.html" . -}}
 <script src="/js/search.js" defer></script>
