@@ -64,18 +64,19 @@
 
   <!-- Mobile Menu -->
   <div id="mobile-menu" class="hidden md:hidden flex-col mt-4">
-    {{- partial "menu.html" (dict "menuID" "main" "page" .) -}}
-    <div class="mt-4">
-      <form class="flex">
-        <input
-          type="text"
-          placeholder="Search..."
-          class="rounded-full p-2 border-2 border-gray-300 flex-grow"
-          onkeydown="if(event.key === 'Enter'){ this.form.submit(); }"
-        />
-      </form>
-    </div>
+  {{- partial "menu.html" (dict "menuID" "main" "page" .) -}}
+  <div class="mt-4">
+    <form id="mobile-search-form" class="flex">
+      <input
+        id="mobile-search-input"
+        type="text"
+        placeholder="Search..."
+        class="rounded-full p-2 border-2 border-gray-300 flex-grow"
+      />
+    </form>
   </div>
+</div>
+
 
   <!-- Search Bar yang tersembunyi secara default (Desktop) -->
   <div id="search-bar" class="hidden">
