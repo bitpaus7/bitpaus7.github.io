@@ -32,9 +32,20 @@ function showEthereumAddress(event) {
       });
   };
 
+  // Membuat tombol X untuk menutup pop-up
+  const closeButton = document.createElement("button");
+  closeButton.className = "close-button";
+  closeButton.innerHTML = "X"; // Tombol X
+
+  // Event untuk menutup pop-up
+  closeButton.onclick = function () {
+    popup.remove(); // Menghapus pop-up saat tombol X diklik
+  };
+
   // Menambahkan elemen ke dalam pop-up
   popup.appendChild(addressText);
   popup.appendChild(copyButton);
+  popup.appendChild(closeButton); // Menambahkan tombol X ke dalam pop-up
 
   // Menambahkan pop-up ke body
   document.body.appendChild(popup);
@@ -43,9 +54,4 @@ function showEthereumAddress(event) {
   setTimeout(() => {
     popup.classList.add("show");
   }, 50);
-
-  // Menghapus pop-up setelah beberapa detik
-  setTimeout(() => {
-    popup.remove();
-  }, 9000); // Hapus setelah 4 detik
 }
