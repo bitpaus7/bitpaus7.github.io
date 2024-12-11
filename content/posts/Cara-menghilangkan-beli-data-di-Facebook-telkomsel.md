@@ -34,6 +34,6 @@ Seperti nya masalah itu memang bug dari Facebook nya, atau bisa jadi facebook ti
 
 {{< figure src="/images/solusi2.webp" alt="cara mengatasi beli paket data" width="80%" >}}
 
-saat ini tidak ada solusi yang konkret untuk membuka link langsung dari aplikasi facebook, karena itu memang di dari sana nya bukan hp kalian atau kartu kalian yang bermasalah.
+saat ini tidak ada solusi yang konkret untuk membuka link langsung dari aplikasi facebook, karena itu memang di dari sana nya bukan hp kalian atau kartu kalian yang bermasalah, Namun untuk telkomsel tinggal pilih gunakan data saja, dan link akan terbuka.
 
 saya coba di aplikasi facebook ori juga hasil nya sama seperti itu.
