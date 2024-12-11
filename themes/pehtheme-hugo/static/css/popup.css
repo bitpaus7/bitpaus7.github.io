@@ -11,7 +11,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 435px;
+  width: 455px;
   z-index: 1000;
   opacity: 0;
   transition: opacity 0.3s ease, transform 0.5s ease;
@@ -34,8 +34,8 @@
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s;
-  margin-left: 5px;
-  margin-top: 12px;
+  margin-left: 12px;
+  margin-top: 10px;
 }
 
 .copy-button:hover {
@@ -43,6 +43,21 @@
 }
 
 .checkmark {
-  font-size: 20px; /* Ukuran ikon ceklis */
+  font-size: 16px; /* Ukuran ikon ceklis */
   color: white;
+}
+
+.close-button {
+  background-color: transparent;
+  color: white;
+  border: none;
+  font-size: 19px;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 12px;
+  margin-top: -47px;
+}
+
+.close-button:hover {
+  color: red;
 }
