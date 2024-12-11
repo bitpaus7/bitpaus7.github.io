@@ -16,5 +16,8 @@
       {{- partial "footer.html" . -}}
     </footer>
     {{- partialCached "footer/js.html" . }}
+
+    <link rel="stylesheet" href="{{ "css/popup.css" | relURL }}">
+<script src="{{ "js/donation.js" | relURL }}"></script>
   </body>
 </html>
