@@ -2,9 +2,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 <!-- Dynamic title for SEO -->
 <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}</title>
+
 <!-- Dynamic description for SEO -->
 <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Params.description }}{{ end }}" />
-
+<meta name="coinzilla" content="924468651f6af889f2029470a3164b4b" />
 <!-- Open Graph Meta Tags untuk Facebook Sharing -->
 <meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }}{{ end }}" />
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}" />
