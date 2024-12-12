@@ -8,4 +8,4 @@ draft: false
 
 {{< gas >}}
 
-**_Refresh setiap 15 detik untuk melihat fee gas terbaru._**
+**_Refresh setiap 15 detik untuk melihat gas fee terbaru._**
