@@ -1,0 +1,59 @@
+.container {
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+}
+
+#gasInfo {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Default untuk layar besar */
+  gap: 10px;
+}
+
+.gas-card {
+  background-color: #acacac;
+  border-radius: 24px;
+  position: relative;
+  margin-top: -52px;
+  text-align: center;
+}
+
+.countdown {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 4px;
+  background-color: #3498db;
+  width: 100%;
+  transition: width 1s linear;
+}
+
+#lastUpdated {
+  font-size: 0.8em;
+  color: #666;
+}
+
+#errorMessage {
+  color: red;
+  margin-top: 10px;
+}
+
+.refreshing {
+  opacity: 0.7;
+}
+
+/* Media query untuk tampilan mobile */
+@media (max-width: 768px) {
+  #gasInfo {
+    grid-template-columns: 1fr; /* Ubah menjadi satu kolom */
+  }
+  .gas-card {
+    background-color: #00c390;
+    padding: 9px;
+    border-radius: 28px;
+    position: relative;
+    margin-top: -8px;
+  }
+}
