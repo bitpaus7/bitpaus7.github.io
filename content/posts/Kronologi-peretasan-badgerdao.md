@@ -1,6 +1,6 @@
 ---
 title: "Kronologi Peretasan BadgerDao"
-date: 2024-12-13
+date: 2021-02-12
 slug: /peratasan-badgerdao/
 image: images/badger.webp
 tags:
