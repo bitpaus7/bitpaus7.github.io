@@ -1,6 +1,6 @@
 baseURL = 'https://alam0x.xyz/'
 languageCode = 'en-us'
-title = 'BITPAUS'
+title = 'Alam0x'
 theme = 'pehtheme-hugo'
 
 [params]
