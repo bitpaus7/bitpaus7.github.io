@@ -1,4 +1,4 @@
-baseURL = 'https://alam0x.xyz/'
+baseURL = 'alam0x.xyz/'
 languageCode = 'en-us'
 title = 'Alam0x'
 theme = 'pehtheme-hugo'
