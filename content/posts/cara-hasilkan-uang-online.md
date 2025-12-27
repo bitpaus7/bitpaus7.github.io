@@ -2,7 +2,7 @@
 title: "Cara Menghasilkan Uang Dari Telegram Tanpa Modal"
 date: 2024-12-19
 slug: /cara-menghasilkan-uang-dari-telegram/
-image: images/mum-100-eng.jpg
+image: images/telegram.webp
 tags:
   - tutorial
 
