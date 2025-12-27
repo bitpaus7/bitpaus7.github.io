@@ -2,7 +2,7 @@
 title: "Belajar Trading Future Crypto Untuk Pemula"
 date: 2024-12-08
 slug: /belajar-trading-future-crypto-untuk-pemula/
-image: images/trading-future-crypto.webp
+image: images/mum-100-eng.jpg
 tags:
   - feature
   - tutorial
